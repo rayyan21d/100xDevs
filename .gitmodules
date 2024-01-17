@@ -1,3 +1,6 @@
 [submodule "assignment"]
 	path = assignment
 	url = https://github.com/rayyan21d/assignments.git
+[submodule "Open-Source/p5.js"]
+	path = Open-Source/p5.js
+	url = https://github.com/rayyan21d/p5.js.git
